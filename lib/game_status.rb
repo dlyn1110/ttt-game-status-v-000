@@ -51,4 +51,4 @@ end
    draw?(board) || full?(board) || won?(board) == true
  else false
  end
-end
+
